@@ -1,3 +1,7 @@
+
+<p align="center"><img src="https://github.com/PepitoSir/pepitosir/assets/103250483/de3d82e0-1a5b-4500-a602-1bc5aed5f98e" alt="Logo Thomas Valley"></p>
+
+
 Hey, 👋
 
 my name is Thomas and I'm a development apprentice. I have a great passion for new technologies and programming languages.

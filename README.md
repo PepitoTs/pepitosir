@@ -12,14 +12,6 @@ I'm very interested in artificial intelligence and web technologies. 🕸
 	&nbsp;
 <p align="center"> My skills :</p>
 <p align="center">
-  <img src="https://github.com/PepitoSir/pepitosir/assets/103250483/07d44f2b-4cae-496e-8422-9689887331d7" alt="Description Image 1" width="50">
-	&nbsp;
-	&nbsp;
-	&nbsp;
-  <img src="https://github.com/PepitoSir/pepitosir/assets/103250483/33e02bfc-db81-406b-9706-2065d78b4877" alt="Description Image 2" width="50">
-	&nbsp;
-	&nbsp;
-	&nbsp;
   <img src="https://github.com/PepitoSir/pepitosir/assets/103250483/4d5d81d8-5d7a-4f7e-8b25-71cc8f46d6a3" alt="Description Image 3" width="50">
 	&nbsp;
 	&nbsp;

@@ -1,8 +1,6 @@
 Hey, 👋
 
-my name is Thomas and I'm a development apprentice. I have a great passion for new technologies and programming languages.
-
-I'm very interested in artificial intelligence and web technologies. 🕸
+I'm Swiss developer.
 <p align="center">My social networks :</p>
 
 <p align="center">

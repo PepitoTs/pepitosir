@@ -2,8 +2,8 @@ Hey, 👋
 
 I'm Swiss developer.<br>
 <h4>Contribution :</h4>
-<li>🚀 Swispace (https://swispace.com)</li>
-<li>🧑‍💻 socraft (https://socraft.ch)</li>
+<li>🚀 <a href="https://swispace.com">Swispace</a></li>
+<li>🧑‍💻 <a href="https://socraft.ch">socraft</a></li>
 <h4>My social networks :</h4>
   <a href="https://www.linkedin.com/in/thomas-burkhalter-71645a2b0/">
     <img src="https://github.com/PepitoSir/pepitosir/assets/103250483/6eb838db-57d8-458a-99ed-eb9ec3147b12" alt="Linkedin" width="50">

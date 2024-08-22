@@ -1,9 +1,7 @@
 Hey, 👋
 
 I'm Swiss developer.
-<p align="center">My social networks :</p>
-
-<p align="center">
+My social networks :
   <a href="https://www.linkedin.com/in/thomas-burkhalter-71645a2b0/">
     <img src="https://github.com/PepitoSir/pepitosir/assets/103250483/6eb838db-57d8-458a-99ed-eb9ec3147b12" alt="Linkedin" width="50">
   </a>

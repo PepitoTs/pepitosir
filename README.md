@@ -6,7 +6,6 @@ I'm a Swiss developer passionate about creating innovative solutions and contrib
 
 - **[Swispace](https://swispace.com)**: Working on space-related projects and technologies.
 - **[Socraft](https://socraft.ch)**: Developing software solutions and enhancing the digital landscape.
-- **[ThomasValley](https://thomasvalley.dev)**: My personal website, where you can find my projects.
 
 ## 🌐 Connect with Me
 

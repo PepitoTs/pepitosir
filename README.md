@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thomas Burkhalter
+# 👋 Hi, I'm Thomas !
 
 I'm a Swiss developer passionate about creating innovative solutions and contributing to the tech community.
 
